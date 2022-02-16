@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AB23051990\\Desktop\\geekbrains\\Lesson-3\\HW8\\HW8.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AB23051990\\Desktop\\geekbrains\\Lesson-3\\HW8\\HW8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AB23051990\\Desktop\\geekbrains\\Lesson-3\\HW8\\HW8.csproj",
+        "projectName": "HW8",
+        "projectPath": "C:\\Users\\AB23051990\\Desktop\\geekbrains\\Lesson-3\\HW8\\HW8.csproj",
+        "packagesPath": "C:\\Users\\AB23051990\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AB23051990\\Desktop\\geekbrains\\Lesson-3\\HW8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AB23051990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
