@@ -1,0 +1,16 @@
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.csproj.AssemblyReference.cache
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.AssemblyInfoInputs.cache
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.AssemblyInfo.cs
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.csproj.CoreCompileInputs.cache
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.exe
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.deps.json
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.runtimeconfig.json
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.runtimeconfig.dev.json
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.dll
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\ref\HW6.dll
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\bin\Debug\net5.0\HW6.pdb
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.dll
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\ref\HW6.dll
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.pdb
+C:\Users\AB23051990\Desktop\geekbrains\Lesson-3\HW6\obj\Debug\net5.0\HW6.genruntimeconfig.cache
