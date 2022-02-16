@@ -1,0 +1,150 @@
+[33mcommit 57dd2169e5ca20c116e88b06a9b1cb2d1fc09d1e[m[33m ([m[1;36mHEAD -> [m[1;32mlesson-5[m[33m, [m[1;31morigin/main-4[m[33m, [m[1;31morigin/lesson-5[m[33m, [m[1;32mmain-4[m[33m)[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Sat Nov 13 21:20:56 2021 +0300
+
+     Please enter the commit message for your changes. Lines starting
+
+[33mcommit 988bad238ae8e6f6e83d2de83ff06526fd80b4b7[m[33m ([m[1;31morigin/lesson-4[m[33m, [m[1;32mlesson-4[m[33m)[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Sat Nov 13 21:08:08 2021 +0300
+
+    e
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit d4eff7493bf918682929139f79a64d88202af208[m[33m ([m[1;32mmain-3[m[33m)[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Sun Nov 7 23:57:33 2021 +0300
+
+    Text
+
+[33mcommit dfb315f0baf7fd1a9796aedd1b1c193801608012[m[33m ([m[1;31morigin/main-2[m[33m, [m[1;31morigin/lesson-3[m[33m, [m[1;32mmain-2[m[33m, [m[1;32mlesson-3[m[33m)[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Thu Nov 4 22:01:12 2021 +0300
+
+    Homework-2
+            Please enter the commit message for your changes. Lines starting
+
+[33mcommit e330b1520413d2606c8398b71faf646d434c6d74[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/lesson-2[m[33m, [m[1;32mmain[m[33m, [m[1;32mlesson-2[m[33m, [m[1;32mLesson-1[m[33m)[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Tue Nov 2 19:12:40 2021 +0300
+
+    home work
+
+[33mcommit 949638b952b53917554e59bf6e45200c918da7f2[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Tue Nov 2 18:38:30 2021 +0300
+
+    Test
+
+[33mcommit 96189741b94c7dc188839cd9a93ee0b31d3bac25[m
+Merge: 97a5cdc 25f7cfd
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Fri Oct 29 02:51:38 2021 +0300
+
+    Merge pull request #1 from AB23051990/Lesson-1.1
+    
+    1
+
+[33mcommit 25f7cfd386a78b8fcd9dfab9c9f5a1e101301405[m
+Author: AB23051990 <AB23051990@yandex.ru>
+Date:   Fri Oct 29 02:39:08 2021 +0300
+
+    Homework
+
+[33mcommit 0fb9c975777a64b870d63943c459459cfb00d651[m
+Author: AB23051990 <AB23051990@yandex.ru>
+Date:   Fri Oct 29 02:37:33 2021 +0300
+
+    Lesson-1
+
+[33mcommit 97a5cdccf45bab13eaeef6fdd2c0c1ed8fc8ecdc[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Fri Oct 29 00:22:23 2021 +0300
+
+    Create README.md
+
+[33mcommit c0516756269e6f5dae243842d1dacbeadf329766[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Fri Oct 29 00:22:07 2021 +0300
+
+    Delete README.md
+
+[33mcommit e6036bb82b09215411b24647a0adc7e358780832[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Fri Oct 29 00:16:17 2021 +0300
+
+    Delete example
+
+[33mcommit 6b1300deca5d193bdc4e49699cce20a6a7d09c3a[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Fri Oct 29 00:05:29 2021 +0300
+
+    Update .gitignore
+
+[33mcommit 0a1d7ffa4f9c08d3518d5ec3d990ae71550e5c13[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Thu Oct 28 23:55:46 2021 +0300
+
+    Delete dev-branch.md
+
+[33mcommit 80a1e933f50f6d20ef033c41c3f941ce5a7b7601[m
+Author: AB23051990 <93049693+AB23051990@users.noreply.github.com>
+Date:   Thu Oct 28 22:57:19 2021 +0300
+
+    Update README.md
+
+[33mcommit b912c2b2c83f72eaa6bb03f1cba1005c3c0ae51a[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Thu Oct 28 22:00:57 2021 +0300
+
+    added dev-branch
+
+[33mcommit f750fea51d9125c6d01cfd6140dfcb69e99b8e2d[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 23:42:19 2021 +0300
+
+    Revert "create change.md"
+    
+    This reverts commit 0da8cd7146fe438feb570d02670f621e7d6e0e04.
+
+[33mcommit c22dc0329eecf106227c12e82d46e56eb1cd3b39[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 23:34:28 2021 +0300
+
+    test commit
+
+[33mcommit 0da8cd7146fe438feb570d02670f621e7d6e0e04[m
+Author: AB23051990 <AB23051990@yandex.ru>
+Date:   Wed Oct 27 23:23:12 2021 +0300
+
+    create change.md
+
+[33mcommit 5c57e8d2821ec7ba5d6d4d6a773b8f969e163f4b[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 23:15:45 2021 +0300
+
+    ignore see up
+
+[33mcommit 1d0bf7785574dbf140bf09553deed4a39bdb7c0c[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 22:24:36 2021 +0300
+
+    created lesson-1 directory
+
+[33mcommit 9ca9eaf62a02733bf681c210a6f18a67215afd3a[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 22:14:14 2021 +0300
+
+    update readme.md
+
+[33mcommit 1394757059e52e338b91f25e08e4c2114ba59167[m
+Author: ABreus <AB23051990@yandex.ru>
+Date:   Wed Oct 27 22:08:51 2021 +0300
+
+    add lesson-1
+
+[33mcommit d3b686605a7fc1f077b62d1849b90ca8598de759[m
+Author: AB23051990 <AB23051990@yandex.ru>
+Date:   Wed Oct 27 21:52:01 2021 +0300
+
+    Initial commit
